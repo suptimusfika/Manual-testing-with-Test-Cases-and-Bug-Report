@@ -7,7 +7,9 @@ Modules: Send Money and Payment (From Bkash App)
 
 ## Scenarios for test cases:
 - Visit this website and login (creds are in the website)
+
   https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  
 - Login and go to PIM menu
 - Create new employee
 - Explore the feature of create new employee
