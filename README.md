@@ -19,8 +19,8 @@ Already 2 test cases are given for sample. So write more 10 cases exclude them.
 
 ## Google Drive Link
 
-- Standard Test cases.
+- Standard Test cases:
   https://docs.google.com/spreadsheets/d/1ZjQimSvIo5yVIj3BavBGeSTUhjIOJ0kVJy4PZSUCNmU/edit#gid=1321435383
   
-- Bug Report
+- Bug Report:
   https://docs.google.com/spreadsheets/d/1j2QAO4vOSvYeJThlYqMsT1em86iyjNXVrqrKo45Tojc/edit#gid=569061988
